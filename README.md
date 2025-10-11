@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola! 🌊
+
+Soy software engineer y trabajo en [Buk](https://www.buk.cl/).
+
+[Aporté a Active Admin](https://github.com/activeadmin/activeadmin/pull/8117) y escribí sobre eso en el [tech blog de Buk](https://buk.engineering/2024/05/29/mi-contribuci%C3%B3n-a-active-admin-el-detr%C3%A1s-de-escena.html).
 
 <!--
 **Vicentecorrea/Vicentecorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
