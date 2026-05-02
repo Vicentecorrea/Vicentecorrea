@@ -1,8 +1,10 @@
 ## Hola! 🌊
 
-Soy software engineer y trabajo en [Buk](https://www.buk.cl/).
+Soy software engineer y trabajo en [Checkr](https://checkr.com/).
 
-[Aporté a Active Admin](https://github.com/activeadmin/activeadmin/pull/8117) y escribí sobre eso en el [tech blog de Buk](https://buk.engineering/2024/05/29/mi-contribuci%C3%B3n-a-active-admin-el-detr%C3%A1s-de-escena.html).
+Antes trabajé en [Buk](https://www.buk.cl/), y mientras estaba ahí [aporté a Active Admin](https://github.com/activeadmin/activeadmin/pull/8117) y escribí sobre eso en el [tech blog de Buk](https://buk.engineering/2024/05/29/mi-contribuci%C3%B3n-a-active-admin-el-detr%C3%A1s-de-escena.html).
+
+Este es mi [LinkedIn](https://cl.linkedin.com/in/vicente-correa-del-valle-58a476209).
 
 <!--
 **Vicentecorrea/Vicentecorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
